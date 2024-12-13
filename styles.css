@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: #3d4654;
+}
+
+main > h1 {
+  font-family: courier;
+}
+
+main {
+  text-align: center;
+  width: 500px;
+  background-color: #8a97ab;
+  margin: auto;
+  padding: 10px 20px 40px 20px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+#image {
+  left: auto;
+  width: 250px;
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  max-height: auto;
+}
+
+#tribute-info {
+ font-family: "Great Vibes", serif;
+  font-weight: normal;
+  font-style: cursive;
+  font-size: 20px;
+}
+
+#tribute-link {
+  color: #454859;
+}
+
+#tribute-link:hover {
+  color: #24262e;
+}
